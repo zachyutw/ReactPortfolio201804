@@ -23,9 +23,6 @@ export default () => (
         <Switch>
             {/* <Route exact path="/"  render={()=><Redirect to="/parenting/pedia/0" />}  />   */}
             <Route exact path="/" component={createComponent(HomePage)} />／／
-          
-            <Route path="/success" component={createComponent(Success)}/>
-
             <Route component={createComponent(NotFound)}/>
         </Switch>
 
