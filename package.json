@@ -12,7 +12,7 @@
     "mock": "json-server mock/mock.js --watch --port 8090",
     "mockdev": "npm run mock & npm start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d public"
   },
   "keywords": [
     "react",
