@@ -1,0 +1,59 @@
+.top_navbar{
+   position: absolute;
+    width: 100%;
+    padding-top:1vw;
+    margin-right: auto;
+    margin-Left: auto;
+    height:12vw;
+    
+  }
+  .top_navlogo{
+    text-align: center; 
+  }
+.top_navlogo_img{
+  width:16vw;
+  height:10vw;       
+}
+
+
+.top_nav_search{
+  padding-top:2vw;
+  padding-left:2vw;
+  padding-right:2vw;
+
+  }
+
+.top_nav_search .searchBar{  
+  background-color:#FFF;
+  height: 6vw;
+  width:100%;
+  border:1px solid rgba(255,255,255,0.5);
+  border-radius:50px;
+  position:relative;
+}
+.top_nav_search .searchBar .searchImg{
+  position:absolute;
+  right:2vw;
+  top:auto;
+}
+@media (min-width: 700px) {
+  .top_nav_search .searchBar .searchImg{
+    position:absolute;
+    right:2vw;
+    top:0.5vw;
+  }
+}
+.top_nav_search .searchBar .searchImg .img{
+  height:4vw;
+  width:4vw;
+}
+
+.profile{
+  text-align: center; 
+    padding-top:2vw;
+  }
+.profile .img{
+  width:6vw;
+    height:6vw;
+}
+ 

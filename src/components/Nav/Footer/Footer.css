@@ -1,0 +1,42 @@
+.footer {
+    position: relative;
+    background-color: #666666;
+    text-align: center;
+    padding-bottom:3%;
+    padding-top: 3%;
+    min-height: 10vw;
+    color:#FFF;
+    font-size: 0.7rem;
+}
+@media (min-width: 600px) {
+  .footer{
+     
+      font-size: 1.5rem;
+  }   
+}
+.footer_link {
+  text-align:center;
+  height: 1.7rem;
+  border-right: 1px solid white;
+}
+.footer_link:last-child {
+  text-align:center;
+  border-right:none;
+}
+.footer_link p {
+  font-size: 1.2rem; 
+  color:#FFFFFF; 
+}
+.footer_quicklink{
+  width:80%;
+  margin-left:10%;
+}
+.footer_card{
+  text-align:center;
+}
+.footer_card p{
+  font-size: 1rem; color:#FFFFFF;
+}
+.footer_card_image {
+  height: 8vw; width:8vw;
+}

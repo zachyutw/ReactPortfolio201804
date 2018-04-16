@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon_About</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Footer" transform="translate(-294.000000, -13.000000)" stroke="#FFFFFF">
+            <g id="LIFE">
+                <g transform="translate(290.000000, 14.000000)">
+                    <g id="life_unclick" transform="translate(0.500000, 0.000000)">
+                        <path d="M26.7648734,18.2188906 C27.8659805,16.4052981 28.5,14.2766906 28.5,12 C28.5,5.372583 23.127417,0 16.5,0 C9.872583,0 4.5,5.372583 4.5,12 C4.5,18.627417 9.872583,24 16.5,24 C18.7785798,24 20.9088306,23.3649279 22.7234047,22.2621314 M16.98,19.2904703 L16.98,9.6 M16.98,6.72 C17.5101934,6.72 17.94,6.29019336 17.94,5.76 C17.94,5.22980664 17.5101934,4.8 16.98,4.8 C16.4498066,4.8 16.02,5.22980664 16.02,5.76 C16.02,6.29019336 16.4498066,6.72 16.98,6.72 Z" id="Icon_About"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

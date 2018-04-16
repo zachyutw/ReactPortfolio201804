@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>life_clicked</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="25" cy="25" r="25"></circle>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="life_clicked">
+            <g>
+                <g id="Oval-2">
+                    <use fill="#7ED5D9" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#7ED5D9" stroke-width="1" cx="25" cy="25" r="24.5"></circle>
+                </g>
+                <g id="Cup" transform="translate(13.000000, 9.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M0.812695549,30.4454925 L25.5282764,30.4454925 M23.4279738,16.4581701 C22.3877934,24.0863205 18.5732175,27.9308484 11.9842461,27.9917537 C4.65674745,28.0594857 0.661998735,23.5534194 0,14.4735549 L25.5282764,14.4735549 C27.8584051,14.4648804 29.0155934,15.9030069 28.9998413,18.7879343 C28.986686,21.1972822 27.363732,22.1532171 26.2934825,22.5799964 C25.694566,22.8188241 24.7393964,22.9429943 23.4279738,22.952507 M12.8181665,3.5662648 C12.8954326,5.07853613 12.1520938,5.82807068 10.5881501,5.81486844 C9.14701658,5.80270292 8.41089986,4.63180283 8.39198601,3.12089523 C8.3702835,1.38721854 9.89170038,-2.27011972e-13 12.024699,-2.27373675e-13 C14.3490845,-2.27373675e-13 15.6824358,1.4554271 15.6576955,3.5662648 C15.6179637,6.95616994 11.6742414,7.61674522 11.6742414,9.08406909 C11.6742414,9.91663461 11.6742414,10.9996709 11.6742414,12.3331781" id="Line-6"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

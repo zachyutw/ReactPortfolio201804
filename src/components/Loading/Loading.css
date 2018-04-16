@@ -1,0 +1,36 @@
+.loading_container{
+    position: absolute;
+    top:0;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    padding-top:70%;
+    
+    z-index: 10000;
+
+}
+.blur_container{
+    position: absolute;
+    top:0;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    padding-top:70%;
+    overflow: hidden; 
+    background-image: url("./img/demo_blur.jpg");
+    background-size:100% 100%;
+    filter: blur(20px); 
+    opacity: 0.8;
+    z-index: 900;
+}
+.loading_img{
+    min-height: 20vw;
+    min-width:  20vw;;
+    max-height: 20vw;
+    max-width:  20vw;
+}
+.loading_container p{
+    color:#999;
+    margin-top:5%;
+    font-size:2rem;
+}

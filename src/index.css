@@ -1,0 +1,61 @@
+
+
+html{
+    height: 100%;
+    font-size:14px;
+}
+@media (min-width: 500px) {
+    html{
+        height: 100%;
+        font-size:16px;
+    }
+}
+@media (min-width: 700px) {
+    html{
+        height: 100%;
+        font-size:16px;
+    }
+}
+@media (min-width: 800px) {
+    html{
+        height: 100%;
+        font-size:16px;
+    }
+}
+@media (min-width: 1025px) {
+    html{      
+        height: 100%;
+        font-size:19px;
+    }
+}
+body{
+    height: 100%;
+    font-family: PingFang SC;
+    color:#000;
+    
+}
+p{
+    margin:0 0 0.1rem;
+}
+
+a {
+    color:#FFF;
+}
+a {
+    text-decoration: none !important; 
+}    
+
+a.selected p{
+    color: #7ED5D9;
+   
+}
+
+
+a.active, a:hover,a:focus,a:focus-within {
+    color: #7ED5D9;
+}
+  
+ul{
+    list-style-type: none;
+}
+

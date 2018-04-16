@@ -1,0 +1,18 @@
+.intro_bander{
+    width: 90%;
+    margin-left:5%;
+    font-size: 2rem;
+    margin-bottom: 5%;
+    margin-top:5%;
+}
+
+@media (min-width: 400px) {
+    .intro_bander{
+        width: 80%;
+        margin-left:10%;
+        font-size: 2rem;
+        margin-top:2%;
+        margin-bottom: 5%;
+        margin-top:5%;
+    }   
+}

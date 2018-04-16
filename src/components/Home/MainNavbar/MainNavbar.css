@@ -1,0 +1,24 @@
+.navbar {
+    position: absolute;
+    top:36vw;
+    width: 100%;
+   
+  
+    height: 24vw;
+    padding-top: 2vw;
+    padding-bottom: 1vw;
+    text-align: center;
+}
+
+.navbar_icon{
+    height:14vw;
+    width:14vw;
+    max-height: 14vw;
+    max-width: 14vw;
+}
+
+.navbar_title{
+   font-size: 4vw;
+}
+
+
