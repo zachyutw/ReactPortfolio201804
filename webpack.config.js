@@ -31,13 +31,6 @@ const publicConfig = {
             filename: '[name].[contenthash:5].css',
             allChunks: true
         }),
-        new CompressionPlugin({
-            asset: "[path].gz[query]",
-            algorithm: "gzip",
-            test: /\.(js|html)$/,
-            threshold: 10240,
-            minRatio: 0.8
-        }),
         new webpack.ProvidePlugin({
             $: "jquery",
             jQuery: "jquery",
