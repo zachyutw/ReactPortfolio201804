@@ -11,7 +11,7 @@ commonConfig = {
         vendor: ['react', 'react-router-dom', 'redux', 'react-dom', 'react-redux','react-bootstrap','lodash','redux-form','bootstrap','react-bodymovin']
     },
     output: {
-        path: path.join(__dirname, './public'),
+        path: path.join(__dirname, './build'),
         filename: '[name].[chunkhash].js',
         chunkFilename: '[name].[chunkhash].js',
         publicPath: "/"

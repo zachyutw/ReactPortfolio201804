@@ -25,7 +25,7 @@ const devConfig = {
     },
     devServer: {
         port: 8080,
-        contentBase: path.join(__dirname, './public'),
+        contentBase: path.join(__dirname, './build'),
         historyApiFallback: true,
         host: '0.0.0.0',
         proxy: {

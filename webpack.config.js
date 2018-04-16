@@ -20,7 +20,7 @@ const publicConfig = {
         }]
     },
     plugins: [
-        new CleanWebpackPlugin(['public/*.*']),
+        new CleanWebpackPlugin(['build/*.*']),
         new UglifyJSPlugin(),
         new webpack.DefinePlugin({
             'process.env': {
