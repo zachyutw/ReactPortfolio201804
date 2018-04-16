@@ -2,7 +2,7 @@
   "name": "zach-react-portfolio",
   "version": "2.0.0",
   "description": "react",
-  "homepage": "http://zachyutw.github.io/ReactPorfolio201804/",
+  "homepage": "http://zachyutw.github.io/ReactPorfolio201804",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
