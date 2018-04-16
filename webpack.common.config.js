@@ -12,8 +12,8 @@ commonConfig = {
     },
     output: {
         path: path.join(__dirname, './build'),
-        filename: '[name].[chunkhash].js',
-        chunkFilename: '[name].[chunkhash].js',
+        filename: '[name].js',
+        chunkFilename: '[name].js',
         publicPath: "/"
     },
     module: {

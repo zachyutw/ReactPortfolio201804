@@ -28,7 +28,7 @@ const publicConfig = {
             }
         }),
         new ExtractTextPlugin({
-            filename: '[name].[contenthash:5].css',
+            filename: '[name].css',
             allChunks: true
         }),
         new webpack.ProvidePlugin({
